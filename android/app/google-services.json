@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754524352138",
+    "project_id": "bookmycricketbox",
+    "storage_bucket": "bookmycricketbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754524352138:android:f2bc727c20ad6c3e0d8773",
+        "android_client_info": {
+          "package_name": "com.example.book_my_cricket_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754524352138-ert2956ur1llus3gsrqk8tlf50bmadm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh1JPSGVbvS3jrqMoEQM50PlhZqiK0iGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754524352138-ert2956ur1llus3gsrqk8tlf50bmadm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
